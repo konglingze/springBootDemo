@@ -1,0 +1,13 @@
+server:
+   port: 8081
+#
+#student:
+##   id: 123
+#   id: 123
+#   name: konglingze
+#   age: 22
+#   list:
+#     - zhangsan
+#     - lisi
+#   map: {1: aa,2: bb,3: cc}
+
